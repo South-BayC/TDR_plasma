@@ -193,4 +193,14 @@ vcpkg install opencv pcl
 - 所有源文件均应以 **UTF-8 编码** 保存，以避免中文注释或路径导致的编译问题。
 - 若需进一步了解 Abel 逆变换、Radon 变换、FBP 等理论差异，可以在项目基础上配合相关文献进行验证与对比。
 
+## 数据图片
 
+![9KV](D:\Desktop\TDR_plasma\data\input\9KV.png)
+
+## 重建的二维分布
+
+![abel_slice_col_256](D:\Desktop\TDR_plasma\data\proceed\abel_slice_col_256.png)
+
+## 重建图片
+
+![9dc073d3798ef2e69f43cc5f0e35c190](C:\Users\16344\Documents\Tencent Files\1634499644\nt_qq\nt_data\Pic\2026-01\Ori\9dc073d3798ef2e69f43cc5f0e35c190.png)
